@@ -1,17 +1,4 @@
 key,city,country,latitude,longitude,comment,annotation
-gallarate,Gallarate,Italia,45.6602,8.79348,,"En 1956, se creó el Centro per L'Automazione dell'Analisi Letteraria (CAAL), que luego de una etapa a mitad de camino entre las oficinas de IBM en Nueva York e Italia, en 1961 se trasladó definitivamente a una antigua fábrica textil en Gallarate, Milán. El acrónimo CAAL a veces también funcionaba como Centro Automazione Analisi Linguistica. En 1983 se renombró como CAEL (Computerizzazione delle Analisi Ermeneutiche e Lessicografiche)."
-roma,Roma,Italia,41.903677,12.493679,,Roma
-milan,Milán,Italia,45.46694444,9.19,,Milán
-malpensa,Aeropuerto de Milán-Malpensa,Italia,45.62900239,8.726205677,,Aeropuerto de Milán-Malpensa
-sevilla,Sevilla,España,37.38283,-5.97317,,Sevilla
-sierramorena,Sierra Morena,España,38.153102,-3.690529,,"Este lugar, conocido por su naturaleza agreste y su asociación histórica con el peligro y la aventura, enmarca la situación de Gaspar de Guzmán como una travesía en el borde entre lo civilizado y lo salvaje."
-san_marcos,León,España,42.598,-5.5669,,"Durante el Siglo de Oro, fue una prisión donde se encarcelaron figuras destacadas, incluyendo a Francisco de Quevedo desde 1639 hasta su muerte."
-españa,España,España,40.463667,-3.74922,,"Para la época, España se encontraba en un momento de cambios profundos que incluia el fin de la Reconquista, la expulsión de los judios y la llegada a América."
-castilla,Castilla,España,42.35,-3.816667,,Con la conquista de Granada se incorporó el territorio a la Corona de Castilla.
-granada,Granada,España,37.18817,-3.60667,,La conquista de Granada por las tropas de los Reyes Católicos en 1492 puso fin al último enclave musumulmán de la Península Ibérica.
-asia,Asia,Asia,29.84064,89.29688,,Asia.
-africa,África,África,7.1881,21.09375,,"El norte del continente africano, territorio de los moros, es el de mayor referencia para las acciones y la perspectiva europea de fines del siglo XV."
-europa,Europa,Europa ,48.69096,9.14062,,Europa.
-salamanca,Salamanca,España,40.96882,-5.66388,,"Es un municipio y ciudad española, capital de la provincia homónima, situada en la comunidad autónoma de Castilla y León. Alberga la universidad, en activo, más antigua de España, la Universidad de Salamanca, fundada en 1218 por Alfonso IX de León. En 1988, la ciudad vieja fue declarada Patrimonio de la Humanidad por la Unesco. "
-toledo,Toledo,España,39.8581,-4.02263,,"Es un municipio y ciudad española, capital de la provincia homónima, en la comunidad autónoma de Castilla-La Mancha. Se la conoce como «la ciudad de las tres culturas» por haber estado poblada durante siglos por cristianos, judíos y musulmanes. En 1986 su casco histórico fue declarado Patrimonio de la Humanidad."
-tajo,Tajo,España y Portugal,40.3197,-1.6975,,"Es el rio mas largo de la península Ibérica la cual atraviesa en su parte central, siguiendo un rumbo de este-oeste, con una leve inclinación hacia el suroeste, que se acentúa cuando llega a Portugal, donde recibe el nombre de Tejo"
+argamesilla,Argamasilla de Alba,España,39.1292,-3.08889,,Nota de alcance sobre el lugar (no puede quedar en blanco)
+aragon,Aragón,España,41.649693,-0.887712,,Nota de alcance sobre el lugar (no puede quedar en blanco)
+zaragoza,Zaragoza,España,41.649693,-0.887712,,Nota de alcance sobre el lugar (no puede quedar en blanco)
