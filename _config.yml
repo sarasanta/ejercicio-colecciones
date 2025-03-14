@@ -73,5 +73,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md,
 # compress CSS output
 sass:
   style: compressed
-
   
