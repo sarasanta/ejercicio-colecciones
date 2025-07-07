@@ -8,17 +8,17 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://hdlab.space
+url: https://sarasanta.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /plantilla-colecciones
+baseurl: /ejercicio-colecciones
 # location of code, the full url to your github repository
-source-code: https://github.com/hdlab.space/plantilla-colecciones
+source-code: https://github.com/sarasanta/ejercicio-colecciones
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Título de la colección
+title: Sitio ejemplo
 # tagline, a short phrase that will appear throughout the site in the top banner
 # tagline: Sitio del seminario
 # description appears in meta tags and other locations
